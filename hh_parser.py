@@ -1,3 +1,5 @@
+import pprint
+
 import requests
 
 DOMAIN = 'https://api.hh.ru/'
